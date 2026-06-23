@@ -1,8 +1,8 @@
 {
   "business": {
     "name": "Car Repair and Shell Service Center",
-    "shortName": "CRSSC",
-    "tagline": "Trusted Auto Repair in Dallas, TX",
+    "shortName": "Car Repair Shell",
+    "tagline": "Expert Auto Care in Dallas, TX",
     "niche": "Auto Mechanic",
     "phone": "(214) 321-4900",
     "address": "Done",
@@ -12,29 +12,29 @@
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Car Repair and Shell Service Center | Top-Rated Auto Mechanic in Dallas, TX",
-    "description": "Expert auto repair in Dallas, TX. From brake repair to engine diagnostics, our certified mechanics provide reliable service. Call (214) 321-4900 today!"
+    "title": "Car Repair and Shell Service Center | Trusted Auto Mechanic in Dallas, TX",
+    "description": "Car Repair and Shell Service Center in Dallas, TX offers expert auto repair, maintenance, and diagnostics. Trust our certified mechanics for quality service. Call (214) 321-4900."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Trusted Auto Repair Experts",
-      "headline": "Reliable Car Repair & Maintenance in Dallas, TX",
-      "subheadline": "From oil changes to major engine repairs, we keep your vehicle running smoothly with honest, professional service.",
-      "primaryCta": "Book Now",
-      "secondaryCta": "Get a Quote"
+      "eyebrow": "Dallas's Trusted Auto Repair",
+      "headline": "Expert Auto Mechanic in Dallas, TX",
+      "subheadline": "Reliable, honest, and professional car repair and maintenance services to keep you safely on the road.",
+      "primaryCta": "Schedule Service",
+      "secondaryCta": "Call (214) 321-4900"
     },
     "stats": [
       {
-        "value": "4.7",
-        "label": "Star Rating"
-      },
-      {
-        "value": "15+",
+        "value": "20+",
         "label": "Years Experience"
       },
       {
         "value": "5,000+",
-        "label": "Cars Serviced"
+        "label": "Vehicles Serviced"
+      },
+      {
+        "value": "4.9",
+        "label": "Customer Rating"
       },
       {
         "value": "100%",
@@ -43,272 +43,273 @@
     ],
     "featureSections": [
       {
-        "eyebrow": "Comprehensive Diagnostics",
-        "title": "Advanced Computer Diagnostics",
-        "body": "We use state-of-the-art diagnostic equipment to pinpoint issues quickly and accurately, saving you time and money.",
+        "eyebrow": "Comprehensive Care",
+        "title": "Full-Service Auto Repair & Maintenance",
+        "body": "From routine oil changes to major engine repairs, our certified technicians handle it all. We use state-of-the-art diagnostic equipment to accurately identify issues and get you back on the road quickly.",
         "bullets": [
-          "Check engine light diagnosis",
-          "OBD-II scanning and analysis",
-          "Performance tuning and troubleshooting"
+          "Engine and transmission diagnostics and repair",
+          "Brake system inspection and service",
+          "AC and heating system repair",
+          "Tire rotation, balancing, and replacement"
         ],
         "reverse": false,
-        "cardLabel": "Fast & Accurate",
-        "cardTitle": "Get Back on the Road Faster",
-        "cardBody": "Our technicians are trained to interpret diagnostic codes and provide clear explanations before any work begins."
+        "cardLabel": "Our Promise",
+        "cardTitle": "Quality You Can Trust",
+        "cardBody": "Every repair is backed by our commitment to quality and transparency. We explain all work before starting, so you never face surprises."
       },
       {
-        "eyebrow": "Preventive Maintenance",
-        "title": "Keep Your Car Running Like New",
-        "body": "Regular maintenance is key to extending the life of your vehicle. We offer tailored maintenance plans based on your car's make and model.",
+        "eyebrow": "Customer-First Approach",
+        "title": "Honest, Transparent Service You Can Count On",
+        "body": "We believe in building trust with every customer. That's why we provide detailed estimates, clear communication, and a comfortable waiting area. Your satisfaction is our top priority.",
         "bullets": [
-          "Oil changes and filter replacements",
-          "Tire rotations and balancing",
-          "Fluid checks and top-offs"
+          "Free multi-point inspection with every service",
+          "Competitive pricing with no hidden fees",
+          "Shuttle service and loaner vehicles available",
+          "Digital service reminders and history"
         ],
         "reverse": true,
-        "cardLabel": "Peace of Mind",
-        "cardTitle": "Avoid Costly Breakdowns",
-        "cardBody": "Our preventive services help catch small issues before they become major repairs."
+        "cardLabel": "Our Difference",
+        "cardTitle": "We Put You First",
+        "cardBody": "Our team takes the time to answer your questions and explain repairs in plain language. You'll always know what's happening with your vehicle."
       }
     ],
     "whyTitle": "Why Choose Car Repair and Shell Service Center?",
     "whyChooseUs": [
       {
         "title": "Certified Technicians",
-        "description": "Our mechanics are ASE-certified and undergo continuous training to stay up-to-date with the latest automotive technologies."
-      },
-      {
-        "title": "Transparent Pricing",
-        "description": "We provide detailed estimates upfront and never start work without your approval. No hidden fees."
+        "description": "Our ASE-certified mechanics have extensive training and experience with all makes and models."
       },
       {
         "title": "Fast Turnaround",
-        "description": "Most repairs are completed within the same day, so you're not left without a vehicle for long."
+        "description": "We respect your time. Most repairs are completed same-day, and we keep you updated throughout the process."
       },
       {
-        "title": "Customer Satisfaction Focus",
-        "description": "We stand behind our work with a 12-month/12,000-mile warranty on all repairs."
+        "title": "Fair & Transparent Pricing",
+        "description": "No upselling, no surprises. You'll receive a clear estimate before any work begins."
+      },
+      {
+        "title": "Warranty on Repairs",
+        "description": "We stand behind our work with a comprehensive warranty on parts and labor for your peace of mind."
       }
     ],
     "testimonials": [
       {
-        "quote": "I brought my SUV in for a check engine light and they diagnosed it in minutes. Fixed it the same day at a fair price. Highly recommend!",
+        "quote": "I've been bringing my car here for years. They're honest, affordable, and always get the job done right.",
         "author": "Mike R.",
-        "role": "Dallas homeowner"
+        "role": "Longtime Customer"
       },
       {
-        "quote": "Honest and professional. They explained everything and didn't try to upsell me. My go-to mechanic now.",
-        "author": "Sarah L.",
-        "role": "Lakewood resident"
+        "quote": "Great service! They diagnosed my engine issue quickly and had me back on the road the same day.",
+        "author": "Lisa T.",
+        "role": "Dallas Resident"
       },
       {
-        "quote": "Great service on my truck's brakes. They were done ahead of schedule and the price was exactly what they quoted.",
-        "author": "James T.",
-        "role": "Oak Lawn driver"
+        "quote": "Finally found a mechanic I can trust. They explained everything clearly and the price was fair.",
+        "author": "James K.",
+        "role": "Repeat Customer"
       }
     ],
     "cta": {
-      "headline": "Ready for Reliable Auto Repair?",
-      "subheadline": "Call us or book online to schedule your appointment today.",
-      "primaryCta": "Book Now",
+      "headline": "Ready for Reliable Auto Care?",
+      "subheadline": "Schedule your appointment today and experience the difference.",
+      "primaryCta": "Book Online",
       "secondaryCta": "Call (214) 321-4900"
     }
   },
   "servicesPage": {
-    "intro": "We offer a full range of auto repair and maintenance services for all makes and models. Our certified technicians use the latest tools and techniques to ensure your vehicle is safe and reliable."
+    "intro": "At Car Repair and Shell Service Center, we offer a full range of auto repair and maintenance services to keep your vehicle running smoothly. From routine check-ups to major repairs, our skilled technicians have you covered."
   },
   "services": [
     {
       "icon": "01",
       "title": "Engine Diagnostics & Repair",
       "shortDescription": "Accurate diagnostics and expert repairs for all engine issues.",
-      "longDescription": "From check engine lights to performance problems, we diagnose and repair engine issues using advanced equipment. Our technicians have experience with gasoline and diesel engines across all major brands.",
+      "longDescription": "Our advanced diagnostic tools pinpoint engine problems quickly and accurately. Whether it's a check engine light, rough idling, or loss of power, we'll restore your engine's performance.",
       "benefits": [
-        "Pinpoint accuracy reduces guesswork",
-        "Same-day service for most repairs",
-        "Warranty on all parts and labor"
+        "Restore engine power and fuel efficiency",
+        "Prevent costly breakdowns with early detection",
+        "Extend the life of your vehicle"
       ],
       "process": [
         {
           "title": "Diagnostic Scan",
-          "description": "We connect your vehicle to our diagnostic computer to read fault codes and live data."
+          "description": "We connect your vehicle to our state-of-the-art diagnostic system to read error codes and identify issues."
         },
         {
-          "title": "Inspection & Report",
-          "description": "We inspect the affected systems and provide a detailed report with recommended repairs."
+          "title": "In-Depth Inspection",
+          "description": "Our technicians perform a thorough visual and mechanical inspection to confirm the diagnosis."
         },
         {
-          "title": "Repair & Testing",
-          "description": "After your approval, we perform the repair and test drive to ensure everything is working correctly."
+          "title": "Repair & Test",
+          "description": "We complete the necessary repairs and test drive your vehicle to ensure everything is working perfectly."
         }
       ],
       "faqs": [
         {
           "question": "How long does an engine diagnostic take?",
-          "answer": "Most diagnostics take about 30-60 minutes, depending on the complexity of the issue."
+          "answer": "Most diagnostics are completed within an hour. Complex issues may require additional time."
         },
         {
-          "question": "Do you repair all car brands?",
-          "answer": "Yes, we service all makes and models, including domestic, Asian, and European vehicles."
+          "question": "Do you repair all makes and models?",
+          "answer": "Yes, our technicians are trained to work on domestic and import vehicles."
         }
       ],
       "slug": "engine-diagnostics-repair"
     },
     {
       "icon": "02",
-      "title": "Brake Repair & Replacement",
-      "shortDescription": "Keep your brakes in top condition for safety and performance.",
-      "longDescription": "We offer complete brake services including pad replacement, rotor resurfacing, caliper repair, and brake fluid flushes. Our team ensures your braking system is responsive and reliable.",
+      "title": "Brake System Service",
+      "shortDescription": "Complete brake inspection, repair, and replacement.",
+      "longDescription": "Your safety depends on reliable brakes. We inspect pads, rotors, calipers, and fluid to ensure your braking system is in top condition. From squeaky brakes to pedal issues, we fix it all.",
       "benefits": [
-        "Enhanced safety and stopping power",
-        "Reduced noise and vibration",
-        "Extended brake component life"
+        "Ensure safe stopping power",
+        "Eliminate noise and vibration",
+        "Extend brake component life"
       ],
       "process": [
         {
           "title": "Brake Inspection",
-          "description": "We check brake pads, rotors, calipers, and fluid levels."
+          "description": "We check pad thickness, rotor condition, and fluid levels to assess wear and damage."
         },
         {
-          "title": "Recommendation",
-          "description": "We explain the condition of each component and recommend necessary replacements."
+          "title": "Component Replacement",
+          "description": "We replace worn pads, resurface or replace rotors, and flush old brake fluid as needed."
         },
         {
-          "title": "Installation & Test",
-          "description": "We install quality parts and test the brakes for proper function."
+          "title": "Road Test",
+          "description": "We test your brakes on the road to confirm smooth, quiet operation and proper pedal feel."
         }
       ],
       "faqs": [
         {
           "question": "How often should I replace my brake pads?",
-          "answer": "Typically every 30,000-70,000 miles depending on driving habits and pad material."
+          "answer": "Typically every 30,000-70,000 miles depending on driving habits. We inspect them at every visit."
         },
         {
-          "question": "What are signs of brake problems?",
-          "answer": "Squealing, grinding, soft pedal, or vibrations when braking indicate it's time for an inspection."
+          "question": "What causes brakes to squeak?",
+          "answer": "Squeaking is often due to worn pads or dust. We'll diagnose and fix the issue."
         }
       ],
-      "slug": "brake-repair-replacement"
+      "slug": "brake-system-service"
     },
     {
       "icon": "03",
-      "title": "Oil Changes & Fluid Services",
-      "shortDescription": "Regular oil changes keep your engine healthy and efficient.",
-      "longDescription": "We provide conventional and synthetic oil changes, plus fluid flushes for transmission, coolant, brake, and power steering systems. Using quality oils and fluids, we help extend your engine's life.",
+      "title": "Oil Change & Fluid Services",
+      "shortDescription": "Keep your engine running smoothly with regular oil changes.",
+      "longDescription": "Regular oil changes are the most important maintenance for your engine. We use high-quality oils and filters, and also check and top off all other fluids during your service.",
       "benefits": [
-        "Improved fuel economy",
-        "Reduced engine wear",
-        "Complimentary multi-point inspection"
+        "Improve engine performance and longevity",
+        "Maintain manufacturer warranty requirements",
+        "Prevent sludge buildup and overheating"
       ],
       "process": [
         {
           "title": "Drain Old Oil",
-          "description": "We drain the old oil and replace the oil filter."
+          "description": "We safely drain the old oil and dispose of it responsibly."
         },
         {
-          "title": "Refill with New Oil",
-          "description": "We add the correct type and amount of oil for your vehicle."
+          "title": "Replace Filter & Add New Oil",
+          "description": "We install a new oil filter and fill with the correct grade and amount of fresh oil."
         },
         {
-          "title": "Check Other Fluids",
-          "description": "We top off other fluids and inspect belts and hoses."
+          "title": "Multi-Point Inspection",
+          "description": "We check fluid levels, belts, hoses, and tire pressure to catch potential issues early."
         }
       ],
       "faqs": [
         {
           "question": "How often should I get an oil change?",
-          "answer": "Every 5,000-7,500 miles for conventional oil, up to 15,000 for synthetic."
+          "answer": "Most vehicles need an oil change every 5,000-7,500 miles. Check your owner's manual for specifics."
         },
         {
-          "question": "Do you use synthetic oil?",
-          "answer": "Yes, we offer both conventional and synthetic options based on your vehicle's needs."
+          "question": "What type of oil do you use?",
+          "answer": "We use high-quality conventional and synthetic oils to meet your vehicle's requirements."
         }
       ],
-      "slug": "oil-changes-fluid-services"
+      "slug": "oil-change-fluid-services"
     },
     {
       "icon": "04",
-      "title": "Tire Services & Alignment",
-      "shortDescription": "Proper tire care improves safety and fuel efficiency.",
-      "longDescription": "Our tire services include rotation, balancing, patching, and new tire installation. We also perform precision wheel alignments to ensure even tire wear and stable handling.",
+      "title": "AC & Heating System Repair",
+      "shortDescription": "Keep your cabin comfortable year-round.",
+      "longDescription": "When your AC blows warm air or your heater fails, our technicians can diagnose and repair the issue. We service compressors, condensers, evaporators, and more to restore comfort.",
       "benefits": [
-        "Longer tire life",
-        "Better fuel mileage",
-        "Smoother ride and handling"
+        "Restore comfortable cabin temperature",
+        "Improve air quality with clean components",
+        "Prevent expensive compressor failure"
       ],
       "process": [
         {
-          "title": "Tire Inspection",
-          "description": "We check tread depth, pressure, and overall condition."
+          "title": "System Inspection",
+          "description": "We check refrigerant levels, compressor function, and airflow to identify the problem."
         },
         {
-          "title": "Service or Replacement",
-          "description": "We rotate, balance, or replace tires as needed."
+          "title": "Repair or Replace Components",
+          "description": "We repair or replace faulty parts such as compressors, condensers, or blower motors."
         },
         {
-          "title": "Alignment Check",
-          "description": "We measure alignment angles and adjust to manufacturer specs."
+          "title": "Performance Test",
+          "description": "We run the system to ensure proper cooling and heating, and check for leaks."
         }
       ],
       "faqs": [
         {
-          "question": "When should I replace my tires?",
-          "answer": "When tread depth is below 2/32 inch or if there are visible bulges or cracks."
+          "question": "My AC isn't blowing cold air. What could be wrong?",
+          "answer": "Common causes include low refrigerant, a failing compressor, or a clogged condenser. We'll diagnose the exact issue."
         },
         {
-          "question": "How often should I rotate my tires?",
-          "answer": "Every 5,000-7,500 miles to ensure even wear."
+          "question": "How often should I service my AC system?",
+          "answer": "We recommend an annual check-up before summer to ensure optimal performance."
         }
       ],
-      "slug": "tire-services-alignment"
+      "slug": "ac-heating-system-repair"
     }
   ],
   "about": {
-    "headline": "Your Neighborhood Auto Repair Shop",
-    "mission": "To provide honest, high-quality auto repair services that keep Dallas drivers safe and mobile.",
+    "headline": "Your Trusted Auto Repair Partner in Dallas",
+    "mission": "To provide honest, high-quality auto repair services that keep our community safe and moving forward.",
     "story": [
-      "Car Repair and Shell Service Center has been serving the Dallas community for over a decade. Founded by a team of experienced mechanics who believed in transparency and craftsmanship, our shop has grown from a small two-bay garage into a full-service auto repair center. We pride ourselves on treating every customer like a neighbor, offering clear communication and fair pricing.",
-      "Our technicians are certified and passionate about cars. We invest in the latest diagnostic tools and ongoing training to handle everything from routine maintenance to complex repairs. Whether you drive a sedan, SUV, or truck, we have the expertise to get you back on the road safely."
+      "Car Repair and Shell Service Center has been serving the Dallas community for over two decades. What started as a small gas station with a repair bay has grown into a full-service auto repair facility trusted by thousands of customers. Our founder believed in treating every customer like a neighbor, and that philosophy still guides us today.",
+      "Over the years, we've invested in the latest diagnostic equipment and continuous training for our technicians. We're proud to be a family-owned business that prioritizes integrity, transparency, and customer satisfaction above all else."
     ],
     "highlight": {
-      "stat": "4.7",
-      "label": "Average Customer Rating"
+      "stat": "20+",
+      "label": "Years of Service"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We always recommend only necessary repairs and provide upfront pricing."
+        "description": "We always tell you the truth about what your car needs and never recommend unnecessary repairs."
       },
       {
         "title": "Quality",
-        "description": "We use premium parts and follow manufacturer specifications for every repair."
+        "description": "We use top-tier parts and follow manufacturer specifications to ensure lasting repairs."
       },
       {
         "title": "Community",
-        "description": "We support local events and strive to be a trusted part of the Dallas area."
+        "description": "We're proud to support local events and organizations that make Dallas a great place to live."
       },
       {
         "title": "Continuous Improvement",
-        "description": "Our team stays current with automotive technology through regular training."
+        "description": "Our technicians undergo regular training to stay current with evolving automotive technology."
       }
     ]
   },
   "contact": {
     "headline": "Get In Touch",
-    "subheadline": "We're here to answer your questions and schedule your appointment.",
+    "subheadline": "We're here to help with all your auto repair needs.",
     "primaryCta": "Call (214) 321-4900",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
-      "Lakewood",
-      "Oak Lawn",
       "Highland Park",
       "University Park",
-      "Preston Hollow"
+      "Lakewood",
+      "Oak Lawn"
     ]
   },
   "social_proof": {
-    "rating": 4.7,
+    "rating": "",
     "reviews": null
   },
   "meta": {
